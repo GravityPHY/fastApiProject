@@ -1,4 +1,4 @@
-Hackathon Model Deployment
+Hackathon ML Model Deployment
 
 ## Build Docker image
 ```docker build -t image_name .```
